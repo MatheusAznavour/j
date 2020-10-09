@@ -1,0 +1,118 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    background-color: #e9e6db8e
+}
+
+header{
+    font: normal 10pt courier new;
+    
+    height: 105px;
+    text-align: center;
+   
+    border: 2px solid rgb(32, 27, 24);
+}
+
+div#for_this{
+    background-color: rgb(61, 66, 66);
+}
+
+ul{
+    width: auto;
+    margin-top: 8px;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 20pt;
+    
+}
+
+a{
+    color: black;
+    font: normal 17pt arial;
+    
+}
+
+li#txt01{
+}
+
+img{
+    width: 8%;
+    margin-right: 86%;
+    margin-top: -6.4%;
+    border-radius: 1000px;
+}
+
+a:hover{
+    background-color: #f0c330;
+    transition: 0.5s;
+    border-radius: 10px;
+    box-shadow: #332f2a 1px 1px 5px 1px;
+    
+    
+}
+
+div#princ{
+    background-color: rgb(22, 19, 15);
+    opacity: 1;
+    width: 100%;
+    height: 60pt;
+    margin-top: -19px
+    
+}
+
+div#texto_001 {
+    text-align: center;
+}
+
+main{
+/**/
+}
+
+div#what_atheins{
+    background-color: #000000;
+    height: 90pt ;
+    opacity: 1;
+    background-image: url('fotos/atttt.jpg');
+    background-repeat: no-repeat;
+    margin-top: -25pt;
+    background-position: -0pt
+}
+h2#main_texto{
+    font: normal 30pt Candara;
+    text-indent: 50px;
+    color: aliceblue;
+}
+
+h3{
+    font: normal 19pt Candara;
+    text-indent: 50px;
+    text-align: center;
+}
+
+p{
+    text-indent: 50px; 
+    font: normal 14pt Candara;
+    max-width: 1500px;
+    text-align: center;
+}
+
+section#corpo{
+    display: block;
+    width: 100%;
+    
+}
+section#corpo_02{
+    max-width: 800px;
+    margin-left: 1000px;
+}
+
+aside#lateral{
+    display: block;
+    width: 200px;
+    float: right;
+    margin-top: -700px;
+    margin-right: 300px;
+    font: normal 13pt Courier ;
+}
